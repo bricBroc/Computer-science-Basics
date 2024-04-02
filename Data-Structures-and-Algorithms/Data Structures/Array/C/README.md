@@ -1,5 +1,5 @@
 # Basic Exercise list
-- <a href=""> Find the Maximum and Minimum Element in an Array </a>
+- [Reverse an array of integers.](01.c)
 - <a href="">  </a>
 - <a href="">  </a>
 - <a href="">  </a>
