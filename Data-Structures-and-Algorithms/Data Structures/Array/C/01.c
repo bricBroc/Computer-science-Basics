@@ -9,8 +9,6 @@ int main()
     for(i = 0; i < num; i++) {
         scanf("%d", arr + i);
     }
-
-
     int temp;
     for (i = 0; i < num / 2; i++) {
         temp = (int) *(arr + num - i - 1);
